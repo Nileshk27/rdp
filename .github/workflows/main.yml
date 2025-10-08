@@ -1,5 +1,3 @@
-name: programmingwithkumaresan
-
 on:
   workflow_dispatch:
 
